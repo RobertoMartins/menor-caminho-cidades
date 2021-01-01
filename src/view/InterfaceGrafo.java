@@ -274,6 +274,8 @@ public class InterfaceGrafo extends javax.swing.JFrame {
         labelDestino.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         labelDestino.setText("Destino");
 
+        bcr.setBackground(new java.awt.Color(0, 153, 51));
+        bcr.setForeground(new java.awt.Color(255, 255, 255));
         bcr.setText("Calcular Rota");
         bcr.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -283,6 +285,8 @@ public class InterfaceGrafo extends javax.swing.JFrame {
 
         cbo.setToolTipText("");
 
+        bSair.setBackground(new java.awt.Color(255, 51, 51));
+        bSair.setForeground(new java.awt.Color(255, 255, 255));
         bSair.setText("Sair");
         bSair.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -308,6 +312,8 @@ public class InterfaceGrafo extends javax.swing.JFrame {
         limage.setIcon(new javax.swing.ImageIcon(getClass().getResource("/view/grafot.jpg"))); // NOI18N
         limage.setText("jLabel1");
 
+        bpassos.setBackground(new java.awt.Color(0, 102, 255));
+        bpassos.setForeground(new java.awt.Color(255, 255, 255));
         bpassos.setText("Ver Algoritmo Passo a Passo");
         bpassos.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

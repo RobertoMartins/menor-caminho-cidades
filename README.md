@@ -6,7 +6,7 @@ Projeto desenvolvido para disciplina de Estrutura de Dados. Consiste em uma apli
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 <ul>
 <li>Linguagem Java</li>
-<li>Algoritmo de Dijktra</li>
+<li>Algoritmo de Dijkstra</li>
 <li>Biblioteca Java Swing (GUI) </li>
 <li>Netbeans IDE</li>
 </ul>

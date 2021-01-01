@@ -12,4 +12,4 @@ Projeto desenvolvido para disciplina de Estrutura de Dados. Consiste em uma apli
 </ul>
 
 ## ScreenShots
- <img src="src/view/print.png">
+ <img src="src/view/print.PNG">

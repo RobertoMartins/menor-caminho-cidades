@@ -305,7 +305,7 @@ public class InterfaceGrafo extends javax.swing.JFrame {
         labelResul.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         labelResul.setText("Resultado");
 
-        limage.setIcon(new javax.swing.ImageIcon("C:\\Users\\rober\\Dropbox\\FACUL\\NetBeansProjects\\Trabalho3ED2\\src\\view\\grafot.jpg")); // NOI18N
+        limage.setIcon(new javax.swing.ImageIcon(getClass().getResource("/view/grafot.jpg"))); // NOI18N
         limage.setText("jLabel1");
 
         bpassos.setText("Ver Algoritmo Passo a Passo");
